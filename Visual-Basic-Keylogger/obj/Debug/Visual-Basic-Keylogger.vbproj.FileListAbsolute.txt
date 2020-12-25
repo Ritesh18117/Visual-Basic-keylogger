@@ -1,0 +1,22 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Visual-Basic-Keylogger\Visual-Basic-Keylogger\bin\Debug\Visual-Basic-Keylogger.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual-Basic-Keylogger.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual_Basic_Keylogger.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual_Basic_Keylogger.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual-Basic-Keylogger.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Visual-Basic-Keylogger\Visual-Basic-Keylogger\bin\Debug\Visual-Basic-Keylogger.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Visual-Basic-Keylogger\Visual-Basic-Keylogger\bin\Debug\Visual-Basic-Keylogger.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Visual-Basic-Keylogger\Visual-Basic-Keylogger\bin\Debug\Visual-Basic-Keylogger.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual-Basic-Keylogger.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual-Basic-Keylogger.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual-Basic-Keylogger.pdb
+C:\Users\Lenovo\Desktop\Visual-Basic-Keylogger\Visual-Basic-Keylogger\bin\Debug\Visual-Basic-Keylogger.exe.config
+C:\Users\Lenovo\Desktop\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual-Basic-Keylogger.exe
+C:\Users\Lenovo\Desktop\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual-Basic-Keylogger.xml
+C:\Users\Lenovo\Desktop\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual-Basic-Keylogger.pdb
+C:\Users\Lenovo\Desktop\Visual-Basic-Keylogger\Visual-Basic-Keylogger\bin\Debug\Visual-Basic-Keylogger.exe
+C:\Users\Lenovo\Desktop\Visual-Basic-Keylogger\Visual-Basic-Keylogger\bin\Debug\Visual-Basic-Keylogger.pdb
+C:\Users\Lenovo\Desktop\Visual-Basic-Keylogger\Visual-Basic-Keylogger\bin\Debug\Visual-Basic-Keylogger.xml
+C:\Users\Lenovo\Desktop\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual-Basic-Keylogger.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual_Basic_Keylogger.Form1.resources
+C:\Users\Lenovo\Desktop\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual_Basic_Keylogger.Resources.resources
+C:\Users\Lenovo\Desktop\Visual-Basic-Keylogger\Visual-Basic-Keylogger\obj\Debug\Visual-Basic-Keylogger.vbproj.GenerateResource.Cache
